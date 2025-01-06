@@ -18,5 +18,5 @@ Located in [/fonts](fonts/).
 
 | Symbol                                  | Wordmark                                        |
 | --------------------------------------- | ----------------------------------------------- |
-| ![SymbolWhite](symbol/symbol-white.svg) | ![WordmarkWhite](text-logo/text-logo-white.svg) |
 | ![SymbolBlack](symbol/symbol-black.svg) | ![WordmarkBlack](text-logo/text-logo-black.svg) |
+| ![SymbolWhite](symbol/symbol-white.svg) | ![WordmarkWhite](text-logo/text-logo-white.svg) |
