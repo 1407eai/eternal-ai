@@ -1,5 +1,3 @@
-![EternalAI](banner.webp)
-
 # EternalAI brand-kit
 
 This repo contains brand kit for EternalAI.
